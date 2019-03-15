@@ -14,8 +14,8 @@ Red line : Vcc , Black line : Gnd , Green line : TXD(sds011) , Blue line : RXD(s
 # Serial 
 ![serial](https://user-images.githubusercontent.com/42115807/54342467-e0ee1100-467f-11e9-9c51-78605f760537.gif)
 
-
-
+# Video 
+https://www.youtube.com/watch?v=X6DMaqqkWYk
 
 
       
